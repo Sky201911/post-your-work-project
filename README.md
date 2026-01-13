@@ -3,16 +3,11 @@
 
 # Project Title
 
-Describe what your project is about and what it does
+Bikeshare project
 
 ## Information about how to use your project
 
-This could include:
-
-- Step-by-step instructions for installing or setting up your project.
-- Any software dependencies that need to be installed.
-- Instructions and examples for how to use your project, including any helpful code snippets.
-- Common issues and troubleshooting tips
+The goal of the Bikeshare project is to use Python to explore data related to bike share systems. It includes one Python file and one or more .csv data files.
 
 ## Contribution guidelines
 
